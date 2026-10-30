@@ -1,0 +1,21 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "ahmed-x86"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "Minimal Screen Color Picker with Notification",
+        "EnabledByDefault": true,
+        "Icon": "color-picker",
+        "Id": "com.ahmedx86.auracolorpicker",
+        "License": "GPL-3.0",
+        "Name": "Aura Color Picker",
+        "Version": "1.0.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-NotificationArea": "true",
+    "X-Plasma-NotificationAreaCategory": "SystemServices"
+}
